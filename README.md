@@ -4,7 +4,7 @@
 
 ### 🔍 Interests:  
 - Mechanistic Interpretability  
-- Multimodal Learning  
+- Multimodality
 - Applying ML/DL to Football Tactics  
 
 ### 📬 Reach me:  

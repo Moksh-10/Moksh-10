@@ -1,13 +1,13 @@
-# 👋 Hello!  
+<span style="font-size: 24px;">👋 Hello!</span>  
 
-I still write code.
+<span style="font-size: 32px; font-weight: bold;">I still write code.</span>  
 
-### 💻 Python | C | Machine Learning | Deep Learning  
+<span style="font-size: 24px;">💻 Python | C | Machine Learning | Deep Learning</span>  
 
-### 🔍 Interests:  
-- Mechanistic Interpretability  
-- Multimodality
-- Trying to apply ML/DL to Football Tactics  
+<span style="font-size: 24px;">🔍 Interests:</span>  
+<span style="font-size: 24px;">- Mechanistic Interpretability</span>  
+<span style="font-size: 24px;">- Multimodality</span>  
+<span style="font-size: 24px;">- Trying to apply ML/DL to Football Tactics</span>    
 
 ### 📬 Reach me:  
 [📧 Gmail](mailto:mokshagrawal42@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/moksh-agrawal-805ab424a/)  

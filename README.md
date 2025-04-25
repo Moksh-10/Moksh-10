@@ -2,7 +2,7 @@
 
 <span style="font-size: 32px; font-weight: bold;">I still write code.</span>  
 
-<span style="font-size: 24px;">💻 Python | C | Machine Learning | Deep Learning</span>  
+<span style="font-size: 24px;">💻 Python | C++ | Machine Learning | Deep Learning</span>  
 
 <span style="font-size: 24px;">🔍 Interests:</span>  
 <span style="font-size: 24px;">- Mechanistic Interpretability</span>  

@@ -6,8 +6,7 @@
 
 <span style="font-size: 24px;">🔍 Interests:</span>  
 <span style="font-size: 24px;">- Mechanistic Interpretability</span>  
-<span style="font-size: 24px;">- Multimodality</span>  
-<span style="font-size: 24px;">- Mixing football and neural nets</span>    
+<span style="font-size: 24px;">- Multimodality</span>    
 
 ### 📬 Reach me:  
 [📧 Gmail](mailto:mokshagrawal42@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/moksh-agrawal-805ab424a/)  
